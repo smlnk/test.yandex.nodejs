@@ -1,0 +1,14 @@
+.container{
+	padding-top: 22px;
+}
+.form-control{
+	width: 430px !important;
+}
+
+.error {
+  border: 1px solid red; 
+}
+
+#resultContainer .success {
+	
+}
